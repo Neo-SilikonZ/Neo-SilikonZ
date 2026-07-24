@@ -1,21 +1,37 @@
-# 👑 Hey, I'm Neo
+# Hi, I'm Neo
 
-Python developer focused on **Machine Learning, PyTorch, and Data Analytics**.
-I enjoy turning data into models and models into useful systems.
+Computer Science graduate with an interest in Java backend development and software engineering. I'm currently focused on building practical applications and strengthening my skills in backend systems, databases, and distributed applications.
 
-* Learning **Machine Learning with PyTorch**
-* Building **Python ML projects**
-* Practicing **data analysis and statistics**
-* Exploring **AI systems and intelligent software**
+## Technologies
 
-🐍 Python
-🔥 PyTorch
-📊 Pandas / NumPy
-🗄 MySQL
-📈 Power BI
-🐧 Linux
-🔧 Git & GitHub
+* Java
+* Spring Boot
+* SQL (PostgreSQL, MySQL)
+* Git & GitHub
+* Maven
+* Docker (Learning)
+* AWS (Learning)
 
-GitHub: https://github.com/Neo-SilikonZ
+## Currently Working On
 
-*Building skills. Shipping projects. Learning in public.*
+* Java CLI Banking Application
+* Spring Boot REST APIs
+* Guest House Booking System
+* Appointment Booking System
+
+## Areas of Interest
+
+* Backend Development
+* Database Design
+* REST API Development
+* Distributed Systems
+* Software Architecture
+* System Design
+
+## Learning
+
+* Advanced Java
+* Spring Framework
+* SQL Optimization
+* Docker
+* AWS
