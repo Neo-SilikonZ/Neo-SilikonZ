@@ -1,14 +1,17 @@
 # Hi, I'm Neo
 
-Computer Science graduate with an interest in Java backend development and software engineering. I'm currently focused on building practical applications and strengthening my skills in backend systems, databases, and distributed applications.
+Computer Science graduate with an interest in Backend development and software engineering. I'm currently focused on building practical applications and strengthening my skills in backend systems, databases, and distributed applications.
 
 ## Technologies
 
 * Java
-* Spring Boot
+* C#
+* Python
+* . Net
 * SQL (PostgreSQL, MySQL)
 * Git & GitHub
 * Maven
+* Spring Boot (Learning)
 * Docker (Learning)
 * AWS (Learning)
 
@@ -27,11 +30,3 @@ Computer Science graduate with an interest in Java backend development and softw
 * Distributed Systems
 * Software Architecture
 * System Design
-
-## Learning
-
-* Advanced Java
-* Spring Framework
-* SQL Optimization
-* Docker
-* AWS
