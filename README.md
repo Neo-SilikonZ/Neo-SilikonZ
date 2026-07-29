@@ -12,12 +12,6 @@ Computer Science graduate with an interest in Backend development and software e
 * Docker (Learning)
 * AWS (Learning)
 
-## Currently Working On
-
-* .Net REST APIs
-* Guest House Booking System
-* Appointment Booking System
-
 ## Areas of Interest
 
 * Backend Development
