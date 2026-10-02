@@ -4,11 +4,10 @@ Computer Science graduate with an interest in Backend development and software e
 
 ## Technologies
 
-* C#
-* ASP.Net Core Web API
-* SQL (PostgreSQL, MS SQL, T-SQL)
+* Java
+* Spring Boot, Spring Data JPA
+* SQL (PostgreSQL, MySQL)
 * Git & GitHub
-* Spring Boot (Learning)
 * Docker (Learning)
 * AWS (Learning)
 
