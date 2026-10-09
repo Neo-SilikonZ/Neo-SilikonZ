@@ -1,21 +1,18 @@
 # Hi, I'm Neo
 
-Computer Science graduate with an interest in Backend development and software engineering. I'm currently focused on building practical applications and strengthening my skills in backend systems, databases, and distributed applications.
+Computer Science & Statistics graduate from North-West University with an interest in Backend development and software engineering. I'm currently focused on building practical applications and strengthening my skills in backend systems. I'm currently building a FinTech application called Clip. A digital wallet with the sole purpose of making digital money function like cash, no middleman, and completely safe and fast. I'm using Java with the Spring Framework.
 
 ## Technologies
 
 * Java
-* Spring Boot, Spring Data JPA
-* SQL (PostgreSQL, MySQL)
+* Spring Boot
+* SQL (PostgreSQL)
 * Git & GitHub
-* Docker (Learning)
-* AWS (Learning)
 
 ## Areas of Interest
 
 * Backend Development
 * Database Design
 * REST API Development
-* Distributed Systems
 * Software Architecture
 * System Design
